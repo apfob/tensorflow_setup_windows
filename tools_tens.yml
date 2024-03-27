@@ -2,7 +2,7 @@ channels:
     - conda-forge
 dependencies:
     - cudatoolkit=11.8.0 
-    - cudnn
+    - cudnn=8.9.7.29
     - jupyter
     - scikit-learn
     - scipy
